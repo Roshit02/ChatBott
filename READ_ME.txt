@@ -1,6 +1,8 @@
 Initial Setup:
 
 Terminal:
+$ cd chatbotweb
+$ python -m venv venv
 $ cd chatbotweb\venv\Scripts
 $ (venv) pip install Flask torch torchvision nltk
 
