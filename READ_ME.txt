@@ -2,8 +2,9 @@ Initial Setup:
 
 Terminal:
 $ cd chatbotweb
-$ python -m venv venv
+$ python -m venv venv ----> this is to create an environment in python
 $ cd chatbotweb\venv\Scripts
+$ Scripts> activate
 $ (venv) pip install Flask torch torchvision nltk
 
 $ (venv) python
